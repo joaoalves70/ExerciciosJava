@@ -1,5 +1,5 @@
 /*************************************************************************
- *  3) 
+ *  2) 
  *  Faça um programa que receba a cotação do dolár em reais, e um valor que
  *  o usuário possui em dólares. Imprima este valor em reais. 
  *************************************************************************/
