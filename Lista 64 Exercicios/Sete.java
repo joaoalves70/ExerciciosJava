@@ -4,7 +4,7 @@
  ************************************************************/
 
 import java.util.Scanner;
-public class Main {
+public class Sete {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
