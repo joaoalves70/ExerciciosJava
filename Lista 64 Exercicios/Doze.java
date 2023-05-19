@@ -5,7 +5,7 @@
 *   x * (-1) se x é menor que zero
 *******************************************************************************/
 import java.util.Scanner;
-public class Modulo
+public class Doze
 {
 	public static void main(String[] args) {
 		Scanner Ler = new Scanner (System.in);
