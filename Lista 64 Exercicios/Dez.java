@@ -6,7 +6,7 @@
  ******************************************************************/
 
 import java.util.Scanner;
-public class Main {
+public class Dez {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
