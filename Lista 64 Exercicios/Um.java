@@ -4,7 +4,7 @@
  * médio de uma peça.
 **********************************************/
 import java.util.Scanner;
-public class Estoquemedio
+public class Um
 {
 	public static void main(String[] args) {
 	    Scanner ler = new Scanner (System.in);	    
