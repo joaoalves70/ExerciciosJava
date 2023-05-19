@@ -1,11 +1,11 @@
 /*************************************************************************
- *  2) 
+ *  Dois) 
  *  Faça um programa que receba a cotação do dolár em reais, e um valor que
  *  o usuário possui em dólares. Imprima este valor em reais. 
  *************************************************************************/
 
 import java.util.Scanner;
-public class ConversorDeMoedas
+public class Dois
 {
 	public static void main(String[] args) {
 	    
