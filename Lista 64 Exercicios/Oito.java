@@ -6,7 +6,7 @@
  ****************************************************************/
 
 import java.util.Scanner;
-public class Volume {
+public class Oito {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
