@@ -8,7 +8,7 @@
  * - Quantidade vendida
 ***********************************************************************/
 import java.util.Scanner;
-public class Comissao
+public class Tres
 {
 	public static void main(String[] args) {
 	    Scanner ler = new Scanner (System.in);	    
