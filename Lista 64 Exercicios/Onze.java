@@ -5,7 +5,7 @@
 * trocados.
 *******************************************************************************/
 import java.util.Scanner;
-public class TrocaDeValores
+public class Onze
 {
 	public static void main(String[] args) {
 		Scanner Ler = new Scanner (System.in);
