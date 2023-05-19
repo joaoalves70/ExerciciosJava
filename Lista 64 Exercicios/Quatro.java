@@ -7,7 +7,7 @@
  * 	multiplicações.
 *************************************************************************/
 import java.util.Scanner;
-public class Somaemultiplicacao {
+public class Quatro {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
