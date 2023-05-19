@@ -4,7 +4,7 @@
  ****************************************************************************/
 
 import java.util.Scanner;
-public class Celsius
+public class Seis
 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner (System.in);
