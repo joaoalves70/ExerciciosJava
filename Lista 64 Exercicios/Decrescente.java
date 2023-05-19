@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main
+public class Decrescente
 {
 	public static void main(String[] args) {
 		Scanner Ler = new Scanner (System.in);
