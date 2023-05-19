@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class MediaEscolar {
+public class Quinze {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
