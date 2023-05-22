@@ -11,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Exercicio {
+public class VinteCinco {
 
     public static void main(String[] args) {
       Scanner entrada = new Scanner(System.in);
