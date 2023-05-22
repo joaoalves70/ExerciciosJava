@@ -37,23 +37,23 @@ Repositório dedicado a resolução de exercícios para desenvolvimento na lingu
 | 11 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 | 12 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 | 13 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
-| 14 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 15 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 16 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 17 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 18 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 19 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 20 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 21 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 22 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 14 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 15 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 16 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 17 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 18 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 19 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 20 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 21 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 22 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 
 
 ### Nível 3: Estrutura de Seleção
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 23 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 24 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 25 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 23 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 24 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 25 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 
 
 ### Nível 4: Estruturas de Repetição
