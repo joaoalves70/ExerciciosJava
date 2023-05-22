@@ -7,7 +7,7 @@
 import java.util.Scanner;
 import java.util.Arrays; //Importando ferramentas para array
 
-public class Exercicio {
+public class TrintaSeis {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
