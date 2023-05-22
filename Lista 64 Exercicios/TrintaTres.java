@@ -5,7 +5,7 @@
 *******************************************************************************/
 import java.util.Scanner;
 
-public class Exercicio {
+public class TrintaTres {
 
 	public static void main(String[] args) {
 
