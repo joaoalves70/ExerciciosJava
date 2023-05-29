@@ -92,17 +92,17 @@ Repositório dedicado a resolução de exercícios para desenvolvimento na lingu
 | 51 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 | 52 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 | 53 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
-| 54 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 56 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 57 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 58 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 59 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 54 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 56 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 57 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 58 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 59 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
 
 
 ### Nível 6: Métodos
 | Exercício  | Estado |
 | :---------------: | :---------------: |
-| 60 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 61 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 62 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 64 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 60 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 61 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 62 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
+| 64 | ![verde](https://cloud.githubusercontent.com/assets/5847145/6166114/634c06b8-b294-11e4-98f3-bf758d351465.png) |
