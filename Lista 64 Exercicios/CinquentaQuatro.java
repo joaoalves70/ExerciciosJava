@@ -10,7 +10,7 @@ import java.util.List;
 //utilizando a classe pronta de List e ArrayLists do java, para alocar memória da maneira correta 
 
 
-public class Exercicio {
+public class CinquentaQuatro {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
