@@ -16,7 +16,7 @@ Quadrantes
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Exercicio {
+public class Sessenta {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
