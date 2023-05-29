@@ -8,7 +8,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Exercicio {
+public class CinquentaNove {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
